@@ -18,10 +18,12 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 
 ## Education
 
-- [Degree and institution]
+- Master of science: Business Analytics
 
 ## Contact
+- Email: govind.s.bhat@outlook.com
+- [LinkedIn](https://linkedin.com/in/govindsbhat)
+- [Twitter](https://twitter.com/_gbhat_/)
+- [Discord](https://discord.com/GBhat#3634)
 
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile]
-- Twitter: [your Twitter handle]
+<img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/>
