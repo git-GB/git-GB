@@ -9,6 +9,16 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 - Data Science with Python: pandas, sci-kit learn, numpy, matplotlib. 📈
 - Machine Learning: supervised and unsupervised learning, deep learning, feature engineering. 🤖
 - Artificial Intelligence: just starting to learn AI concepts, Packages and techniques. 🧠
+- Web Development: I've built several static and Dynamic sites with tools like Jekyll, Hugo, Gatsby and Astro and have worked with CMS like Ghost, Netlify   CMS and Wordpress.🌐
+
+
+## Languages
+
+- Python 🐍
+- HTML and CSS 
+- JavaScript 
+- SQL
+- R Language
 
 ## Projects
 
