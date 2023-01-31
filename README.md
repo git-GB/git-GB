@@ -1,5 +1,5 @@
 ### Welcome to my GitHub! 🙌 👐
-	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
+
 # Hi, I'm **Govind Bhat**
 
 I'm a data scientist and machine learning enthusiast, passionate about using data and algorithms to solve real-world problems. Im currently in the ptocess of learning Fullstack develoopment so that i can work on my own apps.
@@ -28,19 +28,10 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 
 ## Education
 
+
 - Master of science: Business Analytics
+*Hult International Business School* . *SanFransisco
 
-## Profile Stats! 📈
-
-### Language Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-GB&theme=radical"/img>
-
-### Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=vue"/img>
-
-### 
 
 ## Contact
 - [Email](govind.s.bhat@outlook.com)
