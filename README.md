@@ -8,11 +8,11 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 
 ### Language Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-GB&theme=radical"/img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-GB&theme=radical" /img>
 
 ### Profile Summary
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=vue"/img>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=vue" /img>
 
 ## Skills
 
