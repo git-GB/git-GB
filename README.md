@@ -4,15 +4,18 @@
 
 I'm a data scientist and machine learning enthusiast, passionate about using data and algorithms to solve real-world problems. Im currently in the ptocess of learning Fullstack develoopment so that i can work on my own apps.
 
-## GitHub Stats! 📈
-
+<h2 align='center'> GitHub Stats! 📈 </h2>
 ### Language Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-GB&theme=radical" /img>
-
+<p align='center'>
+  <a href="##" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-GB&theme=radical" /img>
+</p>
 ### Profile Summary
+<p align='center'>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=git-GB&theme=vue width="350"></a>
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=vue" /img>
+
+
 
 ## Skills
 
