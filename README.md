@@ -38,4 +38,4 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 
 <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/> <img src="https://img.shields.io/badge/updated-today-brightgreen?style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/discord/1056296312783503450?label=Discord&logo=Discord&logoColor=d&style=for-the-badge"><br>
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/follow/_ghbhat_)
-
+[![linkedin](https://img.shields.io/badge/linkedin?style=for-the-badge&logo=linkedin&logoColor=white)
