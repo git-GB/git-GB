@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome to my GitHub! 🙌 👐
+	https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue
 # Hi, I'm **Govind Bhat**
 
 I'm a data scientist and machine learning enthusiast, passionate about using data and algorithms to solve real-world problems. Im currently in the ptocess of learning Fullstack develoopment so that i can work on my own apps.
@@ -30,6 +30,18 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 
 - Master of science: Business Analytics
 
+## Profile Stats! 📈
+
+### Language Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-GB&theme=radical"/img>
+
+### Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=vue"/img>
+
+### 
+
 ## Contact
 - [Email](govind.s.bhat@outlook.com)
 - [LinkedIn](https://linkedin.com/in/govindsbhat)
@@ -38,4 +50,3 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 
 <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F"/> <img src="https://img.shields.io/badge/updated-today-brightgreen?style=for-the-badge"> <img alt="Discord" src="https://img.shields.io/discord/1056296312783503450?label=Discord&logo=Discord&logoColor=d&style=for-the-badge"><br>
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/follow/_ghbhat_)
-[![linkedin](https://img.shields.io/badge/linkedin?style=for-the-badge&logo=linkedin&logoColor=white)
