@@ -4,6 +4,16 @@
 
 I'm a data scientist and machine learning enthusiast, passionate about using data and algorithms to solve real-world problems. Im currently in the ptocess of learning Fullstack develoopment so that i can work on my own apps.
 
+## GitHub Stats! 📈
+
+### Language Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-GB&theme=radical"/img>
+
+### Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=vue"/img>
+
 ## Skills
 
 - Data Science with Python: pandas, sci-kit learn, numpy, matplotlib. 📈
