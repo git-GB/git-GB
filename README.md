@@ -14,6 +14,9 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" style="margin:2em;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=git-GB&exclude_repo=G-Bot,gb-freeStuffDev,fsdl-website,oopenai-spinningup,dive-into-machine-learning,pandas_exercises,text-analytics-with-python,Data-Science--Cheat-Sheet,Complete-Python-3-Bootcamp)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
+<br>
+<br>
+<br>
 
 ## Skills
 
