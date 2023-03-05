@@ -6,10 +6,11 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 
 <h2 align='center'> GitHub Stats! 📈 </h2>
 
-### Profile Summary
+
 <table>
   <tbody>
-    </tr>
+   <thead> <h3>Profile Summary</h3> </thead>
+    <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api?username=git-GB&count_private=true&show_icons=true&theme=radical" />
@@ -23,8 +24,6 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
     </tr>
    </tbody>
   </table>
-<br>
-<br>
 <br>
 
 ## Skills
