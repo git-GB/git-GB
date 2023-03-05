@@ -7,13 +7,22 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 <h2 align='center'> GitHub Stats! 📈 </h2>
 
 ### Profile Summary
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img style="margin:1em; padding:1em" src="https://github-readme-stats.vercel.app/api?username=git-GB&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img style="margin:1em; padding:1em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=git-GB&exclude_repo=G-Bot,gb-freeStuffDev,fsdl-website,oopenai-spinningup,dive-into-machine-learning,pandas_exercises,text-analytics-with-python,Data-Science--Cheat-Sheet,Complete-Python-3-Bootcamp)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
+<table>
+  <tbody>
+    </tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=git-GB&count_private=true&show_icons=true&theme=radical" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/convoychat">
+          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=git-GB&exclude_repo=G-Bot,gb-freeStuffDev,fsdl-website,oopenai-spinningup,dive-into-machine-learning,pandas_exercises,text-analytics-with-python,Data-Science--Cheat-Sheet,Complete-Python-3-Bootcamp)](https://github.com/anuraghazra/github-readme-stats"/>
+        </a>
+      </td>
+    </tr>
+   </tbody>
+  </table>
 <br>
 <br>
 <br>
