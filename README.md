@@ -1,4 +1,4 @@
-# Welcome to my GitHub! 🙌 👐
+# Welcome to my GitHub! 🙌 
 
 ## I'm **Govind Bhat**
 
