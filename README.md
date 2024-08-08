@@ -38,7 +38,7 @@ I'm a data scientist and machine learning enthusiast, passionate about using dat
 - R Language
 
 ## Projects
-- **E-commerce Database generation using faker and GPT-4**: This project is still under development. I'm working on this as a part of [Kozker Lab's](https://github.com/git-GB/ecommerce-datagen) solution for retailers. 
+- **[E-commerce Database generation using faker and GPT-4](https://github.com/git-GB/ecommerce_datagen)**: This project is still under development. I'm working on this as a part of [Kozker Lab's](https://github.com/kozkerlab) solution for retailers. 
 - **Dubai Apartment Sales-price predictions**: I used python and Machine learning concepts to predict appartment prices.
 - **Crypto price prediction**: We use five years of Cryptocurrency market data from Yahoo Finance and run several analyses to identify trends and relationships.
 - **NASA vs SpaceX Tweets NLP**: 
