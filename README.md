@@ -1,8 +1,8 @@
-# Welcome to my GitHub! 🙌 
+# Govind's Git Bio 🙌 
 
 ## I'm **Govind Bhat**
 
-I'm a data scientist and machine learning enthusiast, passionate about using data and algorithms to solve real-world problems. Im currently in the ptocess of learning Fullstack develoopment so that i can work on my own apps.
+I'm an AI, data scientist, and machine learning enthusiast, passionate about using data and algorithms to solve real-world problems. Also familiar with basic backend and frontend development.
 
 <h2 align='center'> GitHub Stats! 📈 </h2>
 
